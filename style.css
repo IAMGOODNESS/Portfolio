@@ -13,6 +13,7 @@ font-family: cursive;
 }
 body{
     height: 650vh;
+    overflow-x: hidden;
 }
 #hi{
     float: right;
